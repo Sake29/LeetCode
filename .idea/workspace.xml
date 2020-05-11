@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="2020年5月11日打卡">
-      <change afterPath="$PROJECT_DIR$/160. 相交链表/160. 相交链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/160. 相交链表/src/Solution.java" afterDir="false" />
+    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/206.反转链表/206.反转链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/206.反转链表/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -66,51 +66,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (1)">
-    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="14.最长公共前缀" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="160. 相交链表" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="14.最长公共前缀" />
+      <module name="206.反转链表" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="14.最长公共前缀" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.testReverseList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="160. 相交链表" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="testReverseList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution.test (1)" />
-        <item itemvalue="JUnit.Solution.testReverseList" />
         <item itemvalue="JUnit.Solution.test" />
-        <item itemvalue="JUnit.Solution.test2" />
-        <item itemvalue="JUnit.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +104,7 @@
       <workItem from="1571034546020" duration="11000" />
       <workItem from="1587401244523" duration="176000" />
       <workItem from="1587475662458" duration="1639000" />
-      <workItem from="1589173844433" duration="9602000" />
+      <workItem from="1589173844433" duration="15045000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -163,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589178639143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020年5月11日打卡">
+      <created>1589184265255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589184265255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
