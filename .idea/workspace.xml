@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/206.反转链表/206.反转链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206.反转链表/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.合并两个有序链表/21.合并两个有序链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.合并两个有序链表/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83.删除排序链表中的重复元素/83.删除排序链表中的重复元素.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83.删除排序链表中的重复元素/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -66,7 +68,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Solution.test (2)">
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="21.合并两个有序链表" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="83.删除排序链表中的重复元素" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="206.反转链表" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,6 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test (2)" />
+        <item itemvalue="JUnit.Solution.test (1)" />
         <item itemvalue="JUnit.Solution.test" />
       </list>
     </recent_temporary>
@@ -104,7 +128,8 @@
       <workItem from="1571034546020" duration="11000" />
       <workItem from="1587401244523" duration="176000" />
       <workItem from="1587475662458" duration="1639000" />
-      <workItem from="1589173844433" duration="15045000" />
+      <workItem from="1589173844433" duration="15294000" />
+      <workItem from="1589264028311" duration="7241000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -127,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589184265255</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020年5月11日打卡">
+      <created>1589189929616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589189929616</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +170,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -156,6 +190,11 @@
           <url>file://$PROJECT_DIR$/160. 相交链表/src/Solution.java</url>
           <line>70</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/83.删除排序链表中的重复元素/src/Solution.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
