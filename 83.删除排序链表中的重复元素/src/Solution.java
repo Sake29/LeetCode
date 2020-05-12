@@ -1,7 +1,6 @@
 import org.junit.Test;
 
 public class Solution {
-
     /*
         终止条件：没有重复的结点，即 node.val!=node.next.val
         返回值：已经去重的链表的头结点

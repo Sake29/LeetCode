@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 public class Solution {
+
     //使用ArrayList
     public ListNode mergeTwoLists1(ListNode l1, ListNode l2) {
         if (l1==null) return l2;
@@ -23,6 +24,7 @@ public class Solution {
         arrayList1.addAll(arrayList2);
         Collections.sort(arrayList1);
         ListNode head=new ListNode(arrayList1.get(0));
+
         //生成链表
         for (int i = 1; i < arrayList1.size(); i++) {
             ListNode last = head;
