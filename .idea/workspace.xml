@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19.删除链表的倒数第N个节点/19.删除链表的倒数第N个节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.删除链表的倒数第N个节点/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.两两交换链表中的节点/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +145,7 @@
       <workItem from="1589173844433" duration="15294000" />
       <workItem from="1589264028311" duration="7942000" />
       <workItem from="1589293010494" duration="612000" />
-      <workItem from="1589351143468" duration="11261000" />
+      <workItem from="1589351143468" duration="11305000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -195,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589271641132</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020年5月13日打卡">
+      <created>1589362448963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589362448963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +219,8 @@
     <MESSAGE value="删去输出文件" />
     <MESSAGE value="2020年5月11日打卡" />
     <MESSAGE value="2020年5月12日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月12日打卡" />
+    <MESSAGE value="2020年5月13日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月13日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
