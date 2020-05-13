@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="" />
+    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/24.两两交换链表中的节点/24.两两交换链表中的节点.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +148,7 @@
       <workItem from="1589264028311" duration="7942000" />
       <workItem from="1589293010494" duration="612000" />
       <workItem from="1589351143468" duration="11305000" />
+      <workItem from="1589362603826" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -196,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589362448963</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020年5月13日打卡">
+      <created>1589362726378</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589362726378</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
