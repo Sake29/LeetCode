@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/234.回文链表/234.回文链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/234.回文链表/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/445.两数相加 II/445.两数相加 II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/445.两数相加 II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/328.奇偶链表/328.奇偶链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/328.奇偶链表/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/725.分隔链表/725.分隔链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/725.分隔链表/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -14,6 +14,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LeetCode" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,16 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (1)">
-    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="19.删除链表的倒数第N个节点" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution.test (5)">
     <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="234.回文链表" />
       <option name="PACKAGE_NAME" value="" />
@@ -89,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="19.删除链表的倒数第N个节点" />
+    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="725.分隔链表" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -101,6 +95,16 @@
     </configuration>
     <configuration name="Solution.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="24.两两交换链表中的节点" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="328.奇偶链表" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test (5)" />
+        <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution.test (1)" />
         <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (4)" />
-        <item itemvalue="JUnit.Solution.test (3)" />
-        <item itemvalue="JUnit.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +159,8 @@
       <workItem from="1589293010494" duration="612000" />
       <workItem from="1589351143468" duration="11305000" />
       <workItem from="1589362603826" duration="478000" />
-      <workItem from="1589437517771" duration="7626000" />
+      <workItem from="1589437517771" duration="10045000" />
+      <workItem from="1589511822214" duration="12127000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -220,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589362955385</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2020年5月14日打卡">
+      <created>1589445483037</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589445483037</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +256,8 @@
     <MESSAGE value="2020年5月11日打卡" />
     <MESSAGE value="2020年5月12日打卡" />
     <MESSAGE value="2020年5月13日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月13日打卡" />
+    <MESSAGE value="2020年5月14日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月14日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
