@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112.路径总和/112.路径总和.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112.路径总和/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/617.合并二叉树/617.合并二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/617.合并二叉树/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/437.路径总和 III/437.路径总和 III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/437.路径总和 III/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/572.另一个树的子树/572.另一个树的子树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/572.另一个树的子树/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/543.二叉树的最长路径/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/543.二叉树的最长路径/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,37 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (4)">
-    <configuration name="Solution.tess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="543.二叉树的最长路径" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="tess" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="543.二叉树的最长路径" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="226.翻转二叉树" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution.test (5)">
     <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="617.合并二叉树" />
       <option name="PACKAGE_NAME" value="" />
@@ -125,13 +94,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution.test (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="572.另一个树的子树" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="437.路径总和 III" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="572.另一个树的子树" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test (5)" />
+        <item itemvalue="JUnit.Solution.test2" />
+        <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (4)" />
         <item itemvalue="JUnit.Solution.test (3)" />
-        <item itemvalue="JUnit.Solution.test (2)" />
-        <item itemvalue="JUnit.Solution.test (1)" />
-        <item itemvalue="JUnit.Solution.tess" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,8 @@
       <workItem from="1589614740194" duration="714000" />
       <workItem from="1589713514771" duration="6602000" />
       <workItem from="1589729892511" duration="2652000" />
-      <workItem from="1589782626211" duration="3473000" />
+      <workItem from="1589782626211" duration="3818000" />
+      <workItem from="1589854112408" duration="11747000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -261,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589728070040</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2020年5月18日打卡">
+      <created>1589786420443</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589786420443</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +296,8 @@
     <MESSAGE value="2020年5月15日打卡" />
     <MESSAGE value="2020年5月16日打卡" />
     <MESSAGE value="2020年5月17日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月17日打卡" />
+    <MESSAGE value="2020年5月18日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月18日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
