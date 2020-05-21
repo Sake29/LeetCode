@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/520.检测大写字母/520.检测大写字母.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/520.检测大写字母/src/Solution.java" afterDir="false" />
+    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="2020年5月20日打卡">
+      <change afterPath="$PROJECT_DIR$/198.打家劫舍/198.打家劫舍.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/198.打家劫舍/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213.打家劫舍 II/213.打家劫舍 II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213.打家劫舍 II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.左叶子之和/404.左叶子之和.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.左叶子之和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/687.最长同值路径/687.最长同值路径.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/687.最长同值路径/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (3)">
+  <component name="RunManager" selected="JUnit.Solution.test (2)">
     <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="101.对称二叉树" />
+      <module name="198.打家劫舍" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -82,7 +88,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="102.二叉树的层序遍历" />
+      <module name="213.打家劫舍 II" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -101,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="111.二叉树的最小深度" />
+    <configuration name="Solution.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="404.左叶子之和" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -111,11 +117,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="101.对称二叉树" />
+    <configuration name="Solution.test (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="687.最长同值路径" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution.test (3)" />
-        <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution.test (1)" />
-        <item itemvalue="JUnit.Solution.test2 (1)" />
+        <item itemvalue="JUnit.Solution.test (5)" />
+        <item itemvalue="JUnit.Solution.test (4)" />
+        <item itemvalue="JUnit.Solution.test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +173,8 @@
       <workItem from="1589782626211" duration="3818000" />
       <workItem from="1589854112408" duration="11859000" />
       <workItem from="1589945052382" duration="13343000" />
-      <workItem from="1589986548697" duration="976000" />
+      <workItem from="1589986548697" duration="1032000" />
+      <workItem from="1590032051134" duration="10373000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -281,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589959929585</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2020年5月20日打卡">
+      <created>1589987537299</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589987537299</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
