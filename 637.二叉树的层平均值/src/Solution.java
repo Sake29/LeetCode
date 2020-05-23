@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
@@ -5,7 +7,28 @@ import java.util.List;
 public class Solution
 {
     public List<Double> averageOfLevels(TreeNode root) {
-        return null;
+        List<Double> result = new LinkedList<>();
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (queue.size()!=0){
+            double sum = 0;
+            int len = queue.size();
+            for (int i = 0; i < len ; i++) {
+                TreeNode treeNode = queue.pollFirst();
+                sum+=treeNode.val;
+                if (treeNode.left!=null) queue.add(treeNode.left);
+                if (treeNode.right!=null) queue.add(treeNode.right);
+            }
+            result.add(sum/len);
+        }
+        return result;
+    }
+    @Test
+    public void test(){
+        List<Double> result = averageOfLevels(Utills.createTree(new Integer[]{3,9,20,15,7}));
+        for (Double ave : result) {
+            System.out.println(ave);
+        }
     }
 }
 
