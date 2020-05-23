@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/337.打家劫舍 III/337.打家劫舍 III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/337.打家劫舍 III/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/671.二叉树中第二小的节点/671.二叉树中第二小的节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/671.二叉树中第二小的节点/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/637.二叉树的层平均值/637.二叉树的层平均值.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/637.二叉树的层平均值/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -171,7 +169,8 @@
       <workItem from="1589945052382" duration="13343000" />
       <workItem from="1589986548697" duration="1032000" />
       <workItem from="1590032051134" duration="10464000" />
-      <workItem from="1590127193086" duration="10390000" />
+      <workItem from="1590127193086" duration="10675000" />
+      <workItem from="1590247117801" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -299,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590074619875</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2020年5月22日打卡">
+      <created>1590138893585</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590138893585</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +337,8 @@
     <MESSAGE value="2020年5月19日打卡" />
     <MESSAGE value="2020年5月20日打卡" />
     <MESSAGE value="2020年5月21日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月21日打卡" />
+    <MESSAGE value="2020年5月22日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月22日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
