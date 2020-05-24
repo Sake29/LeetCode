@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/144.二叉树的前序遍历/144.二叉树的前序遍历.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/144.二叉树的前序遍历/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/145.二叉树的后序遍历/145.二叉树的后序遍历.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/145.二叉树的后序遍历/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/513.找树左下角的值/513.找树左下角的值.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/513.找树左下角的值/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/637.二叉树的层平均值/637.二叉树的层平均值.iml" beforeDir="false" afterPath="$PROJECT_DIR$/637.二叉树的层平均值/637.二叉树的层平均值.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/637.二叉树的层平均值/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/637.二叉树的层平均值/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,29 +74,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (4)">
+  <component name="RunManager" selected="JUnit.Solution.test (2)">
+    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="145.二叉树的后序遍历" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="513.找树左下角的值" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="213.打家劫舍 II" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="671.二叉树中第二小的节点" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="637.二叉树的层平均值" />
+      <module name="145.二叉树的后序遍历" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -101,7 +105,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="337.打家劫舍 III" />
+      <module name="144.二叉树的前序遍历" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -111,7 +115,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="671.二叉树中第二小的节点" />
+      <module name="145.二叉树的后序遍历" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test2" />
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution.test (4)" />
-        <item itemvalue="JUnit.Solution.test (3)" />
-        <item itemvalue="JUnit.Solution.test2" />
-        <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (2)" />
+        <item itemvalue="JUnit.Solution.test2" />
+        <item itemvalue="JUnit.Solution" />
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="JUnit.Solution.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +173,8 @@
       <workItem from="1589986548697" duration="1032000" />
       <workItem from="1590032051134" duration="10464000" />
       <workItem from="1590127193086" duration="10675000" />
-      <workItem from="1590247117801" duration="4388000" />
+      <workItem from="1590247117801" duration="5032000" />
+      <workItem from="1590297139750" duration="12391000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -311,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590247224706</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2020年5月23日打卡">
+      <created>1590252293358</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590252293359</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
