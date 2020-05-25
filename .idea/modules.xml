@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/725.分隔链表/725.分隔链表.iml" filepath="$PROJECT_DIR$/725.分隔链表/725.分隔链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/83.删除排序链表中的重复元素/83.删除排序链表中的重复元素.iml" filepath="$PROJECT_DIR$/83.删除排序链表中的重复元素/83.删除排序链表中的重复元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.回文数/9.回文数.iml" filepath="$PROJECT_DIR$/9.回文数/9.回文数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" filepath="$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
     </modules>
   </component>
