@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/94.二叉树的中序遍历/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/94.二叉树的中序遍历/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/669.修剪二叉搜索树/669.修剪二叉搜索树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/669.修剪二叉搜索树/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test">
-    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="145.二叉树的后序遍历" />
+  <component name="RunManager" selected="JUnit.Solution.test (1)">
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="669.修剪二叉搜索树" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test (1)" />
         <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (3)" />
         <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution.test2" />
-        <item itemvalue="JUnit.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +172,8 @@
       <workItem from="1590127193086" duration="10675000" />
       <workItem from="1590247117801" duration="5032000" />
       <workItem from="1590297139750" duration="13920000" />
-      <workItem from="1590411208288" duration="8999000" />
+      <workItem from="1590411208288" duration="9083000" />
+      <workItem from="1590498555888" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -331,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590421027317</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2020年5月25日打卡">
+      <created>1590421072374</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590421072374</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +378,8 @@
     <MESSAGE value="2020年5月22日打卡" />
     <MESSAGE value="2020年5月23日打卡" />
     <MESSAGE value="2020年5月24日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月24日打卡" />
+    <MESSAGE value="2020年5月25日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月25日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
