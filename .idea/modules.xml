@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/21.合并两个有序链表/21.合并两个有序链表.iml" filepath="$PROJECT_DIR$/21.合并两个有序链表/21.合并两个有序链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/213.打家劫舍 II/213.打家劫舍 II.iml" filepath="$PROJECT_DIR$/213.打家劫舍 II/213.打家劫舍 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/226.翻转二叉树/226.翻转二叉树.iml" filepath="$PROJECT_DIR$/226.翻转二叉树/226.翻转二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/230.二叉搜索树中第K小的元素/230.二叉搜索树中第K小的元素.iml" filepath="$PROJECT_DIR$/230.二叉搜索树中第K小的元素/230.二叉搜索树中第K小的元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/234.回文链表/234.回文链表.iml" filepath="$PROJECT_DIR$/234.回文链表/234.回文链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/24.两两交换链表中的节点/24.两两交换链表中的节点.iml" filepath="$PROJECT_DIR$/24.两两交换链表中的节点/24.两两交换链表中的节点.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.无重复字符的最长子串/3.无重复字符的最长子串.iml" filepath="$PROJECT_DIR$/3.无重复字符的最长子串/3.无重复字符的最长子串.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/5. 最长回文子串/5. 最长回文子串.iml" filepath="$PROJECT_DIR$/5. 最长回文子串/5. 最长回文子串.iml" />
       <module fileurl="file://$PROJECT_DIR$/513.找树左下角的值/513.找树左下角的值.iml" filepath="$PROJECT_DIR$/513.找树左下角的值/513.找树左下角的值.iml" />
       <module fileurl="file://$PROJECT_DIR$/520.检测大写字母/520.检测大写字母.iml" filepath="$PROJECT_DIR$/520.检测大写字母/520.检测大写字母.iml" />
+      <module fileurl="file://$PROJECT_DIR$/538.把二叉搜索树转换为累加树/538.把二叉搜索树转换为累加树.iml" filepath="$PROJECT_DIR$/538.把二叉搜索树转换为累加树/538.把二叉搜索树转换为累加树.iml" />
       <module fileurl="file://$PROJECT_DIR$/543.二叉树的最长路径/543.二叉树的最长路径.iml" filepath="$PROJECT_DIR$/543.二叉树的最长路径/543.二叉树的最长路径.iml" />
       <module fileurl="file://$PROJECT_DIR$/572.另一个树的子树/572.另一个树的子树.iml" filepath="$PROJECT_DIR$/572.另一个树的子树/572.另一个树的子树.iml" />
       <module fileurl="file://$PROJECT_DIR$/617.合并二叉树/617.合并二叉树.iml" filepath="$PROJECT_DIR$/617.合并二叉树/617.合并二叉树.iml" />

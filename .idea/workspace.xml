@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/669.修剪二叉搜索树/669.修剪二叉搜索树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/669.修剪二叉搜索树/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230.二叉搜索树中第K小的元素/230.二叉搜索树中第K小的元素.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230.二叉搜索树中第K小的元素/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/538.把二叉搜索树转换为累加树/538.把二叉搜索树转换为累加树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/538.把二叉搜索树转换为累加树/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,7 +72,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (1)">
+  <component name="RunManager" selected="JUnit.Solution.test (2)">
+    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="230.二叉搜索树中第K小的元素" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="669.修剪二叉搜索树" />
       <option name="PACKAGE_NAME" value="" />
@@ -82,7 +93,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="145.二叉树的后序遍历" />
+      <module name="538.把二叉搜索树转换为累加树" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -91,18 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="94.二叉树的中序遍历" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="144.二叉树的前序遍历" />
+    <configuration name="Solution.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="230.二叉搜索树中第K小的元素" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -112,7 +113,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="145.二叉树的后序遍历" />
+      <module name="230.二叉搜索树中第K小的元素" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test2" />
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution.test (1)" />
-        <item itemvalue="JUnit.Solution.test" />
-        <item itemvalue="JUnit.Solution.test (3)" />
         <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution.test2" />
+        <item itemvalue="JUnit.Solution" />
+        <item itemvalue="JUnit.Solution.test (4)" />
+        <item itemvalue="JUnit.Solution.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,8 @@
       <workItem from="1590247117801" duration="5032000" />
       <workItem from="1590297139750" duration="13920000" />
       <workItem from="1590411208288" duration="9083000" />
-      <workItem from="1590498555888" duration="911000" />
+      <workItem from="1590498555888" duration="1138000" />
+      <workItem from="1590589938710" duration="3527000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -343,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590421072374</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2020年5月26日打卡">
+      <created>1590499620748</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590499620748</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +388,8 @@
     <MESSAGE value="2020年5月23日打卡" />
     <MESSAGE value="2020年5月24日打卡" />
     <MESSAGE value="2020年5月25日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月25日打卡" />
+    <MESSAGE value="2020年5月26日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月26日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +408,16 @@
           <url>file://$PROJECT_DIR$/637.二叉树的层平均值/src/Solution.java</url>
           <line>27</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/230.二叉搜索树中第K小的元素/src/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/230.二叉搜索树中第K小的元素/src/Solution.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
