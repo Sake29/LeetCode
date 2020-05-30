@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/108.将有序数组转换为二叉搜索树/108.将有序数组转换为二叉搜索树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/108.将有序数组转换为二叉搜索树/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/109.有序链表转换二叉搜索树/109.有序链表转换二叉搜索树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/109.有序链表转换二叉搜索树/src/Solution.java" afterDir="false" />
+    <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="2020年5月29日打卡">
+      <change afterPath="$PROJECT_DIR$/530.二叉搜索树的最小绝对差/530.二叉搜索树的最小绝对差.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/530.二叉搜索树的最小绝对差/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/653.两数之和 IV - 输入 BST/653.两数之和 IV - 输入 BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/653.两数之和 IV - 输入 BST/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,9 +72,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (3)">
-    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="236.二叉树的最近公共祖先" />
+  <component name="RunManager" selected="JUnit.Solution.test">
+    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="653.两数之和 IV - 输入 BST" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="653.两数之和 IV - 输入 BST" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -93,18 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="108.将有序数组转换为二叉搜索树" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="235.二叉搜索树的最近公共祖先" />
+      <module name="530.二叉搜索树的最小绝对差" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="JUnit.Solution.test (2)" />
+        <item itemvalue="JUnit.Solution" />
         <item itemvalue="JUnit.Solution.test (3)" />
         <item itemvalue="JUnit.Solution.test2" />
-        <item itemvalue="JUnit.Solution.test (4)" />
-        <item itemvalue="JUnit.Solution.test (1)" />
-        <item itemvalue="JUnit.Solution.test" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,8 @@
       <workItem from="1590498555888" duration="1138000" />
       <workItem from="1590589938710" duration="4154000" />
       <workItem from="1590672124502" duration="6642000" />
-      <workItem from="1590758864375" duration="5623000" />
+      <workItem from="1590758864375" duration="5703000" />
+      <workItem from="1590846160431" duration="2510000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -369,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590678879885</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2020年5月29日打卡">
+      <created>1590764530970</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1590764530970</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +415,8 @@
     <MESSAGE value="2020年5月26日打卡" />
     <MESSAGE value="2020年5月27日打卡" />
     <MESSAGE value="2020年5月28日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月28日打卡" />
+    <MESSAGE value="2020年5月29日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月29日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -437,11 +445,6 @@
           <url>file://$PROJECT_DIR$/230.二叉搜索树中第K小的元素/src/Solution.java</url>
           <line>73</line>
           <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/109.有序链表转换二叉搜索树/src/Solution.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
