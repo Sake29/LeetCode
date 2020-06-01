@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/501.二叉搜索树中的众数/501.二叉搜索树中的众数.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/501.二叉搜索树中的众数/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/208.实现一个前缀树/208.实现一个前缀树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/208.实现一个前缀树/src/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution.test (1)">
+  <component name="RunManager" selected="JUnit.Trie.test">
     <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="653.两数之和 IV - 输入 BST" />
       <option name="PACKAGE_NAME" value="" />
@@ -100,16 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="109.有序链表转换二叉搜索树" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="530.二叉搜索树的最小绝对差" />
       <option name="PACKAGE_NAME" value="" />
@@ -120,13 +111,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Trie.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="208.实现一个前缀树" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Trie" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Trie.test" />
         <item itemvalue="JUnit.Solution.test (1)" />
         <item itemvalue="JUnit.Solution.test" />
         <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution" />
-        <item itemvalue="JUnit.Solution.test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,8 @@
       <workItem from="1590672124502" duration="6642000" />
       <workItem from="1590758864375" duration="5703000" />
       <workItem from="1590846160431" duration="2713000" />
-      <workItem from="1590929419207" duration="4714000" />
+      <workItem from="1590929419207" duration="4934000" />
+      <workItem from="1591021739130" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -382,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590848814251</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2020年5月31日打卡">
+      <created>1590934313192</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1590934313192</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +432,8 @@
     <MESSAGE value="2020年5月28日打卡" />
     <MESSAGE value="2020年5月29日打卡" />
     <MESSAGE value="2020年5月30日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月30日打卡" />
+    <MESSAGE value="2020年5月31日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月31日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
