@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208.实现一个前缀树/208.实现一个前缀树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208.实现一个前缀树/src/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/677.键值映射/677.键值映射.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/677.键值映射/src/MapSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,28 +71,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Trie.test">
-    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="653.两数之和 IV - 输入 BST" />
+  <component name="RunManager" selected="JUnit.MapSum.test">
+    <configuration name="MapSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="677.键值映射" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="501.二叉搜索树中的众数" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="MapSum" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="653.两数之和 IV - 输入 BST" />
+    <configuration name="MapSum.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="677.键值映射" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapSum" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="501.二叉搜索树中的众数" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MapSum.test" />
+        <item itemvalue="JUnit.MapSum.test2" />
         <item itemvalue="JUnit.Trie.test" />
         <item itemvalue="JUnit.Solution.test (1)" />
         <item itemvalue="JUnit.Solution.test" />
-        <item itemvalue="JUnit.Solution.test (2)" />
-        <item itemvalue="JUnit.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,8 @@
       <workItem from="1590758864375" duration="5703000" />
       <workItem from="1590846160431" duration="2713000" />
       <workItem from="1590929419207" duration="4934000" />
-      <workItem from="1591021739130" duration="3064000" />
+      <workItem from="1591021739130" duration="3409000" />
+      <workItem from="1591107244157" duration="5404000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -391,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590934313192</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2020年6月1日打卡">
+      <created>1591025291565</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591025291565</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +442,8 @@
     <MESSAGE value="2020年5月29日打卡" />
     <MESSAGE value="2020年5月30日打卡" />
     <MESSAGE value="2020年5月31日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月31日打卡" />
+    <MESSAGE value="2020年6月1日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年6月1日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -467,6 +477,11 @@
           <url>file://$PROJECT_DIR$/501.二叉搜索树中的众数/src/Solution.java</url>
           <line>50</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/677.键值映射/src/MapSum.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
