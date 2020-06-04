@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/225.用队列实现栈/225.用队列实现栈.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/225.用队列实现栈/src/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232.用栈实现队列/232.用栈实现队列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232.用栈实现队列/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/155.最小栈/155.最小栈.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/155.最小栈/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/155.最小栈/src/MinStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.有效的括号/20.有效的括号.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.有效的括号/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/232.用栈实现队列/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/232.用栈实现队列/src/MyQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +62,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -72,22 +79,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyStack.test">
-    <configuration name="MapSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="677.键值映射" />
+  <component name="RunManager" selected="JUnit.Solution.test">
+    <configuration name="MinStack2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="155.最小栈" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MapSum" />
+      <option name="MAIN_CLASS_NAME" value="MinStack2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapSum.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="677.键值映射" />
+    <configuration name="MinStack.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="155.最小栈" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MapSum" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="MinStack" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,10 +120,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="208.实现一个前缀树" />
+    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20.有效的括号" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Trie" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -125,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="JUnit.MinStack2.test" />
+        <item itemvalue="JUnit.MinStack.test" />
         <item itemvalue="JUnit.MyStack.test" />
         <item itemvalue="JUnit.MyQueue.test" />
-        <item itemvalue="JUnit.MapSum.test" />
-        <item itemvalue="JUnit.MapSum.test2" />
-        <item itemvalue="JUnit.Trie.test" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +190,8 @@
       <workItem from="1590929419207" duration="4934000" />
       <workItem from="1591021739130" duration="3409000" />
       <workItem from="1591107244157" duration="5469000" />
-      <workItem from="1591195859233" duration="3808000" />
+      <workItem from="1591195859233" duration="5091000" />
+      <workItem from="1591278104503" duration="5091000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -409,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591113886924</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2020年6月3日打卡">
+      <created>1591199716722</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591199716722</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +468,8 @@
     <MESSAGE value="2020年5月31日打卡" />
     <MESSAGE value="2020年6月1日打卡" />
     <MESSAGE value="2020年6月2日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年6月2日打卡" />
+    <MESSAGE value="2020年6月3日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年6月3日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,7 +509,15 @@
           <line>111</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/20.有效的括号/src/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Solution_test.ic" NAME="Solution.test Coverage Results" MODIFIED="1591283168595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
