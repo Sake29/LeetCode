@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/503.下一个更大元素 II/503.下一个更大元素 II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/503.下一个更大元素 II/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/503.下一个更大元素 II/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/739.每日温度/739.每日温度.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/739.每日温度/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/739.每日温度/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.两数之和/1.两数之和.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.两数之和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.两数之和/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217.存在重复元素/217.存在重复元素.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217.存在重复元素/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217.存在重复元素/src/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution2">
+  <component name="RunManager" selected="JUnit.Solution2.test">
     <configuration name="Solution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="503.下一个更大元素 II" />
       <option name="PACKAGE_NAME" value="" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="503.下一个更大元素 II" />
+    <configuration name="Solution2.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.两数之和" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution2" />
       <option name="METHOD_NAME" value="test" />
@@ -100,7 +100,7 @@
       </method>
     </configuration>
     <configuration name="Solution2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="739.每日温度" />
+      <module name="217.存在重复元素" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution2" />
       <option name="METHOD_NAME" value="test" />
@@ -110,7 +110,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="739.每日温度" />
+      <module name="217.存在重复元素" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -119,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="503.下一个更大元素 II" />
+    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.两数之和" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution2" />
-        <item itemvalue="JUnit.Solution2.test (1)" />
-        <item itemvalue="JUnit.Solution.test (2)" />
         <item itemvalue="JUnit.Solution2.test" />
         <item itemvalue="JUnit.Solution.test (1)" />
+        <item itemvalue="JUnit.Solution2.test (2)" />
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="JUnit.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,8 @@
       <workItem from="1591107244157" duration="5469000" />
       <workItem from="1591195859233" duration="5091000" />
       <workItem from="1591278104503" duration="5262000" />
-      <workItem from="1591349866694" duration="7711000" />
+      <workItem from="1591349866694" duration="7757000" />
+      <workItem from="1591452142223" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -431,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591283327883</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2020年6月5日打卡">
+      <created>1591370099070</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591370099070</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020年5月11日打卡" />
     <MESSAGE value="2020年5月12日打卡" />
     <MESSAGE value="2020年5月13日打卡" />
     <MESSAGE value="2020年5月14日打卡" />
@@ -476,7 +483,8 @@
     <MESSAGE value="2020年6月2日打卡" />
     <MESSAGE value="2020年6月3日打卡" />
     <MESSAGE value="2020年6月4日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年6月4日打卡" />
+    <MESSAGE value="2020年6月5日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年6月5日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
