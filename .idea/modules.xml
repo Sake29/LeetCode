@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/110.平衡二叉树/110.平衡二叉树.iml" filepath="$PROJECT_DIR$/110.平衡二叉树/110.平衡二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/111.二叉树的最小深度/111.二叉树的最小深度.iml" filepath="$PROJECT_DIR$/111.二叉树的最小深度/111.二叉树的最小深度.iml" />
       <module fileurl="file://$PROJECT_DIR$/112.路径总和/112.路径总和.iml" filepath="$PROJECT_DIR$/112.路径总和/112.路径总和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/128.最长连续序列/128.最长连续序列.iml" filepath="$PROJECT_DIR$/128.最长连续序列/128.最长连续序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/13. 罗马数字转整数/13. 罗马数字转整数.iml" filepath="$PROJECT_DIR$/13. 罗马数字转整数/13. 罗马数字转整数.iml" />
       <module fileurl="file://$PROJECT_DIR$/14.最长公共前缀/14.最长公共前缀.iml" filepath="$PROJECT_DIR$/14.最长公共前缀/14.最长公共前缀.iml" />
       <module fileurl="file://$PROJECT_DIR$/144.二叉树的前序遍历/144.二叉树的前序遍历.iml" filepath="$PROJECT_DIR$/144.二叉树的前序遍历/144.二叉树的前序遍历.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/538.把二叉搜索树转换为累加树/538.把二叉搜索树转换为累加树.iml" filepath="$PROJECT_DIR$/538.把二叉搜索树转换为累加树/538.把二叉搜索树转换为累加树.iml" />
       <module fileurl="file://$PROJECT_DIR$/543.二叉树的最长路径/543.二叉树的最长路径.iml" filepath="$PROJECT_DIR$/543.二叉树的最长路径/543.二叉树的最长路径.iml" />
       <module fileurl="file://$PROJECT_DIR$/572.另一个树的子树/572.另一个树的子树.iml" filepath="$PROJECT_DIR$/572.另一个树的子树/572.另一个树的子树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/594.最长和谐子序列/594.最长和谐子序列.iml" filepath="$PROJECT_DIR$/594.最长和谐子序列/594.最长和谐子序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/617.合并二叉树/617.合并二叉树.iml" filepath="$PROJECT_DIR$/617.合并二叉树/617.合并二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/637.二叉树的层平均值/637.二叉树的层平均值.iml" filepath="$PROJECT_DIR$/637.二叉树的层平均值/637.二叉树的层平均值.iml" />
       <module fileurl="file://$PROJECT_DIR$/653.两数之和 IV - 输入 BST/653.两数之和 IV - 输入 BST.iml" filepath="$PROJECT_DIR$/653.两数之和 IV - 输入 BST/653.两数之和 IV - 输入 BST.iml" />
