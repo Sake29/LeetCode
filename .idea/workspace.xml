@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be854681-12a2-426b-8447-9ca6351592ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/128.最长连续序列/128.最长连续序列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/128.最长连续序列/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/128.最长连续序列/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/594.最长和谐子序列/594.最长和谐子序列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/594.最长和谐子序列/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/594.最长和谐子序列/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/242.有效的字母异位词/242.有效的字母异位词.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/242.有效的字母异位词/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/242.有效的字母异位词/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/409.最长回文串/409.最长回文串.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/409.最长回文串/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/409.最长回文串/src/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -79,18 +79,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution2.test (2)">
-    <configuration name="Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="128.最长连续序列" />
+  <component name="RunManager" selected="JUnit.Solution.test">
+    <configuration name="Solution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="242.有效的字母异位词" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="594.最长和谐子序列" />
+    <configuration name="Solution2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="409.最长回文串" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution2" />
       <option name="METHOD_NAME" value="test" />
@@ -99,18 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="128.最长连续序列" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution2" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="594.最长和谐子序列" />
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="242.有效的字母异位词" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -120,7 +110,7 @@
       </method>
     </configuration>
     <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="128.最长连续序列" />
+      <module name="409.最长回文串" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="METHOD_NAME" value="test" />
@@ -129,13 +119,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="242.有效的字母异位词" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Solution2.test (2)" />
         <item itemvalue="JUnit.Solution.test" />
-        <item itemvalue="JUnit.Solution" />
-        <item itemvalue="JUnit.Solution2.test (1)" />
-        <item itemvalue="JUnit.Solution.test (2)" />
+        <item itemvalue="JUnit.Solution2.test" />
+        <item itemvalue="JUnit.Solution2" />
+        <item itemvalue="JUnit.Solution.test (1)" />
+        <item itemvalue="JUnit.Solution.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,9 @@
       <workItem from="1591278104503" duration="5262000" />
       <workItem from="1591349866694" duration="7757000" />
       <workItem from="1591452142223" duration="3261000" />
-      <workItem from="1591516699050" duration="5863000" />
+      <workItem from="1591516699050" duration="6484000" />
+      <workItem from="1591598245572" duration="28000" />
+      <workItem from="1591622241648" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="2020年5月11日打卡">
       <created>1589178398859</created>
@@ -447,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591455370064</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="2020年6月7日打卡">
+      <created>1591544985872</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591544985872</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020年5月13日打卡" />
     <MESSAGE value="2020年5月14日打卡" />
     <MESSAGE value="2020年5月15日打卡" />
     <MESSAGE value="2020年5月16日打卡" />
@@ -492,7 +500,8 @@
     <MESSAGE value="2020年6月4日打卡" />
     <MESSAGE value="2020年6月5日打卡" />
     <MESSAGE value="2020年6月6日打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年6月6日打卡" />
+    <MESSAGE value="2020年6月7日打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年6月7日打卡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
